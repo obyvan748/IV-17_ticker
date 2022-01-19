@@ -1,0 +1,7 @@
+**/.terraform
+**/.tfstate
+.DS_Store
+.pio
+.vscode
+.idea
+**/credentials.h

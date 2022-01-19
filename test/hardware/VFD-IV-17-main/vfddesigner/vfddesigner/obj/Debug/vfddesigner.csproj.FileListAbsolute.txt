@@ -1,0 +1,10 @@
+C:\Users\Nathan\desktop\VFDdesigner\vfddesigner\vfddesigner\bin\Debug\vfddesigner.exe.config
+C:\Users\Nathan\desktop\VFDdesigner\vfddesigner\vfddesigner\bin\Debug\vfddesigner.exe
+C:\Users\Nathan\desktop\VFDdesigner\vfddesigner\vfddesigner\bin\Debug\vfddesigner.pdb
+C:\Users\Nathan\desktop\VFDdesigner\vfddesigner\vfddesigner\obj\Debug\vfddesigner.csprojAssemblyReference.cache
+C:\Users\Nathan\desktop\VFDdesigner\vfddesigner\vfddesigner\obj\Debug\vfddesigner.Form1.resources
+C:\Users\Nathan\desktop\VFDdesigner\vfddesigner\vfddesigner\obj\Debug\vfddesigner.Properties.Resources.resources
+C:\Users\Nathan\desktop\VFDdesigner\vfddesigner\vfddesigner\obj\Debug\vfddesigner.csproj.GenerateResource.cache
+C:\Users\Nathan\desktop\VFDdesigner\vfddesigner\vfddesigner\obj\Debug\vfddesigner.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\desktop\VFDdesigner\vfddesigner\vfddesigner\obj\Debug\vfddesigner.exe
+C:\Users\Nathan\desktop\VFDdesigner\vfddesigner\vfddesigner\obj\Debug\vfddesigner.pdb

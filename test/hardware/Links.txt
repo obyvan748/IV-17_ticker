@@ -1,0 +1,10 @@
+https://github.com/nsafran1217/VFD-IV-17
+https://github.com/hamster/TubeCube
+https://kevinrye.net/index_files/vfd_ac_filament_driver.php
+https://www.tayloredge.com/reference/Circuits/SimpleVFDPower/index.html
+https://www.kickstarter.com/projects/oscilloscopeclocks/the-vfd-clock-ii-alphanumeric-iv-17-tubes-wifi-scr/comments
+https://www.akafugu.jp/images/products/vfd-modular-clock/
+https://github.com/akafugu/VFDDeluxe
+https://www.dafont.com/es/calculate-16.font
+https://electronics.stackexchange.com/questions/187938/using-transistors-to-prevent-short-circuit-current-limit
+https://www.maximintegrated.com/en/design/technical-documents/app-notes/3/3212.html
