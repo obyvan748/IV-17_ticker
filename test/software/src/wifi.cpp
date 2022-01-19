@@ -11,8 +11,6 @@
 #include <WiFi.h>
 #include "credentials.h"
 
-const char ssid[]      = "ntube";
-const char password[]  = "FEC93C74A21B58A7";
 const char ntpServer[] = "pool.ntp.org";
 const char hostname[]  = "ESP32-Nimo";
 const char tzinfo[]    = "WEST-1DWEST-2,M3.5.0/02:00:00,M10.5.0/03:00:00";   // Western European Time
